@@ -10,6 +10,7 @@ Visualização do Histórico: É possível consultar todos os agendamentos regis
 
 Exclusão de Agendamentos: Caso precise, você pode apagar agendamentos específicos usando o ID.
 
+Próximos Passos e Funcionalidades em Desenvolvimento
 Estou animado para continuar desenvolvendo e adicionando mais funcionalidades no futuro! Ainda estou trabalhando e aprendendo a implementar:
 
 Sistema de Login: Para que cada usuário tenha seus próprios agendamentos privados.
