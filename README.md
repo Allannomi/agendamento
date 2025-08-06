@@ -1,7 +1,7 @@
-# Bot de Agendamento#
+# Bot de Agendamento
 Olá! Este é o meu primeiro bot de agendamento.
 
-## Nesta primeira versão, o bot permite que você crie e gerencie seus agendamentos de forma simples. A ideia é que ele seja uma ferramenta prática para organizar seus compromissos.##
+## Nesta primeira versão, o bot permite que você crie e gerencie seus agendamentos de forma simples. A ideia é que ele seja uma ferramenta prática para organizar seus compromissos.
 
 Funcionalidades da Versão 1.0
 *Agendamento de Compromissos:* Você pode registrar novos agendamentos informando o local, a data/hora e uma breve descrição.
@@ -18,6 +18,7 @@ Estou animado para continuar desenvolvendo e adicionando mais funcionalidades no
 *Sistema de Notificações:* Para lembrar os usuários dos próximos compromissos.
 
 *Autenticação JWT (JSON Web Token):* Para garantir a segurança das informações e do acesso à API.
+
 
 
 
